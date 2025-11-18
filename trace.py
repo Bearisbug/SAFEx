@@ -4,7 +4,7 @@
 MoE Expert Trace → JSON (Single Prompt, Qwen / Mixtral-MoE, vLLM-V1)
 ---------------------------------------------------------------------
 Example:
-    python moe_trace_single.py \
+    python trace.py \
         --model /path/to/moe-model \
         --prompt "Hello, please write a short introduction about Mixture-of-Experts."
 
